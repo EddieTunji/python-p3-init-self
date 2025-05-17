@@ -5,3 +5,5 @@ class Person:
         self.name = name
 
 guido = Person("Guido")
+
+print(guido.name)
